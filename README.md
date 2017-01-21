@@ -1,7 +1,7 @@
 # niemlpscrk
 Nick Email Password Cracker
 
-How to use:
+How to install:
 chmod a+x niemlpscrk.sh
 
 In terminal:
